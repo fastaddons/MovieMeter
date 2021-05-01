@@ -6,5 +6,5 @@ Hello there! Need help?
   
 
 - or you can contact me directly to my support email:  
-  admin _[a]_ fastaddons _{dot}_ com
+  admin _[å]_ fastaddons *_*{dot}`_`com
   
