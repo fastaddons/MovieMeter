@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Movie Meter works only specific movie-related pages - this list is always available in the extension Popup / Show introduction page.
+Movie Meter works only on specific movie-related pages - this list is always available in the extension Popup / Show introduction page.
 
 Only on these pages, extension will try to extract IMDb ID, movie name, movie year and video type (movie or TV show).  
 Only this information - IMDb id, movie name, movie year, video type - is then send to the cloud server (hosted at "https://movies.fastaddons.com" domain) to fetch information about the movie.
