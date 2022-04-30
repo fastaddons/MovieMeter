@@ -8,7 +8,9 @@
 # Movie Meter
 This repository is for tracking bugs and documentation only
 
-
+### Help with translations
+https://github.com/fastaddons/locales  
+*Thank you!*
 
 ### Privacy Policy
 [Read privacy policy here.](PRIVACY_POLICY.md)
